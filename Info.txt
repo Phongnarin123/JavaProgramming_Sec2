@@ -1,0 +1,5 @@
+Student_id : 2313110625
+Student Name : Pongnarin Satee
+Major : IT
+Level : 1
+Faculty :Information Techonology
